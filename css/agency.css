@@ -133,7 +133,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("https://scontent.fzty2-1.fna.fbcdn.net/v/t1.0-9/18057635_10154685279781775_3325531756456490073_n.jpg?oh=76419343df8b44e0c21ba0ce27886ba5&oe=5AAD4691");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -509,3 +509,11 @@ ul.social-buttons {
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
       background-color: #fed136; }
+      #twitter:hover {
+        background-color: blue;
+      }
+
+      .members {
+        display: flex;
+        flex-wrap: wrap;
+      }
